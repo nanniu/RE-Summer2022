@@ -1,6 +1,6 @@
 This repo contains materials of the Requirements Engineering (RE) course offered in the summer of 2022. The course is at the graduate level, and will run from July 12, 2022 to July 26, 2022 (both ends ***inclusive***).
-## Course delivery
-The course link is https://ucincinnati.zoom.us/j/4879043098 Please make sure that you have downloaded and installed the updated version of Zoom in order to join the course link.
+## Lecture delivery
+The lecture link is https://ucincinnati.zoom.us/j/4879043098 Please make sure that you have downloaded and installed the updated version of Zoom in order to join the lecture link.
 
 ## Schedule of each day (Beijing time)
 - **Part 1**  9am-9:40am
