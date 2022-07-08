@@ -14,5 +14,9 @@ The course link is https://ucincinnati.zoom.us/j/4879043098 Please make sure tha
 - Gain practical experience in selected RE techniques (notations, methods, and tools)
 - Understand the interdisciplinary nature and contextual factors of RE
 
+## Assessments
+Every student will be evaluated by assignments (including an oral presentation) and class participation.
+
 ## Resources
 - Instructor: [Dr. Nan Niu](https://homepages.uc.edu/~niunn)
+- [RE Conference Portal](https://requirements-engineering.org/)
