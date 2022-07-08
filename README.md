@@ -1,1 +1,1 @@
-This repo contains materials of the Requirements Engineering (RE) course offered in the summer of 2022. The course is
+This repo contains materials of the Requirements Engineering (RE) course offered in the summer of 2022. The course is at the graduate level, and will run from July 12, 2022 to July 26, 2022 (both ends **inclusive**).
