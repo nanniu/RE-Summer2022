@@ -13,3 +13,6 @@ The course link is https://ucincinnati.zoom.us/j/4879043098 Please make sure tha
 - Examine the state-of-the-art of research and current practices in requirements engineering (RE)
 - Gain practical experience in selected RE techniques (notations, methods, and tools)
 - Understand the interdisciplinary nature and contextual factors of RE
+
+## Resources
+- Instructor: [Dr. Nan Niu](https://homepages.uc.edu/~niunn)
