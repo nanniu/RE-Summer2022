@@ -19,5 +19,5 @@ Every student will be evaluated by assignments (including an oral presentation) 
 
 ## Resources
 - Instructor: [Dr. Nan Niu](https://homepages.uc.edu/~niunn)
-- Teaching Assistant (TA): Jinzhi Shan
+- Teaching Assistant (TA): Jinzhi Shan (email: summercourse_re@163.com)
 - [RE Conference Portal](https://requirements-engineering.org/)
