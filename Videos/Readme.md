@@ -2,6 +2,7 @@
 
 - [Day04-Lecture1](https://share.weiyun.com/2MkRrefZ)
 - [Day04-Lecture2](https://share.weiyun.com/GRn5ezjK)
+- [Day04-Lecture3](https://share.weiyun.com/0UZBoe14)
 
 - [Day03-Lecture1](https://share.weiyun.com/ygJ1aIbD)
 - [Day03-Lecture2](https://share.weiyun.com/kq6LWxNJ)
