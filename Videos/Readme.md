@@ -1,5 +1,7 @@
 #### We will provide the link to the recorded class video as follows.
 
+- [Day10-Lecture1](https://share.weiyun.com/WIkwgqHN)
+
 - [Day09-Lecture1](https://share.weiyun.com/Jy6jEZUn)
 - [Day09-Lecture2](https://share.weiyun.com/Kti2OA2H)
 
