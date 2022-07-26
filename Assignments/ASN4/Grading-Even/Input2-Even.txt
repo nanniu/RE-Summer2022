@@ -1,0 +1,205 @@
+NFR1 (Operational): The system shall interface with the Choice Parts System.  This provides the feed of recycled parts data.
+
+NFR2 (Usability): Users shall feel satisfied using the system.  85% of all users will be satisfied with the system.
+
+NFR3 (Security): Only adjusters can request recycled parts audit reports. No users without an adjuster role shall request recycled parts audits.
+
+FR1: The user shall search for the preferred repair facility using vehicle location and radius in miles.
+
+FR2: The vehicle location shall include street address  city  state  and zip-code.
+
+FR3: The search radius shall be between 1 and 30 miles.
+
+FR4: The system shall locate the preferred repair facility with the highest ratings for the input criteria.
+
+FR5: The adjuster shall enter the preferred repair facility on the estimate assignment.
+
+FR6: The adjuster shall be able to override the preferred repair facility on the estimate assignment.
+
+FR7: The preferred repair facility shall be returned to the user.
+
+FR8: The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.
+
+FR9: The estimator shall search for available recycled parts using damaged vehicle parts information.
+
+FR10: The estimator shall search for available recycled parts using a list of preferred parts suppliers.
+
+FR11: The system shall search for available recycled parts for the supplied vehicle parts and suppliers.
+
+FR12: The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers.
+
+FR13: The system shall retain the available recycled parts and suppliers returned from the search.
+
+FR14: The available recycled parts information and their suppliers shall be returned to the user.
+
+FR15: The estimator shall apply selected recycled parts to the collision estimate.
+
+FR16: The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.
+
+FR17: The adjuster shall review the collision estimate.
+
+FR18: The adjuster shall request a recycled parts audit of the collision estimate.
+
+FR19: The audit report shall include the total number of recycled parts used in the estimate.
+
+FR20: The audit report shall include the number of available recycled parts from the original search results.
+
+FR21: The audit report shall include the percentage of available recycled parts used in the estimate.
+
+FR22: The audit report shall include the total score of the audit which sums the individual line items.
+
+FR23: The audit report shall be displayed to the user.
+
+FR24: The audit report shall be available to other adjusters at later points in time.
+
+FR25: The user shall select to view the preferred repair facility ratings.
+
+FR26: The system will display a blank set of ratings if there are not ratings yet defined.
+
+FR27: The user shall enter new ratings based on the audit report.
+
+FR28: The ratings shall be from a scale of 1-10.
+
+FR29: The user shall select to save the preferred repair facility ratings.
+
+FR30: The preferred repair facility ratings shall be saved by the system.
+
+FR31: The vehicle data shall include vehicle year  make  and model.
+
+FR32: The system shall resolve the zipcode for the street address  city  and state if zipcode is unknown.
+
+FR33: The recycled parts search results provided to the estimator shall be retrieved by the system.
+
+FR34: The system shall generate an audit report based on the available recycled parts and the collision estimate.
+
+FR35: The current repair facility ratings shall be displayed to the user.
+
+FR36: The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts.
+
+FR37: The system shall record repair facility visiting schedule entries.
+
+FR38: The system will notify users of their repair facility visiting schedules.
+
+FR39: The system shall have the ability to send repair facility visiting schedule reminders to users.
+
+FR40: The system shall send the repair facility contact information to schedule creaters.
+
+FR41: The system will record repair facility visiting schedule acknowledgments.
+
+FR42: The system shall store new conference rooms.
+
+FR43: The system shall update existing conference rooms.
+
+FR44: The system will be able to delete conference rooms.
+
+FR45: The system shall be able to store new recycled parts.
+
+FR46: The system will update existing recycled parts.
+
+FR47: The system shall be able to delete recycled parts.
+
+FR48: Each time a conference room is reserved  the conference room schedule shall be updated to reflect the time and date of the reservation.
+
+FR49: The system shall display a map of the repair facility building showing conference room locations.
+
+FR50: The system shall record updated repair facility visiting schedule agendas.
+
+FR51: The system shall send a repair facility visiting schedule confirmation to the schedule creaters.
+
+FR52: The system shall record the transportation status of parts reserved.
+
+FR53: The system shall record different schedule types.
+
+FR54: The system shall record all the recycled parts that has been reserved.
+
+FR55: The system shall notify repair facility of recycled parts transport requests.
+
+FR56: The system will allow priviledged users to view repair facility visiting schedules in multiple reporting views.
+
+FR57: The system shall be able to send repair facility visiting schedule notifications via different kinds of end-user specified methods.
+
+FR58: The system shall have a customizable Look and Feel.
+
+FR59: The system shall have an intuitive user interface.
+
+FR60: The system will display an available status for unreserved conference rooms.
+
+FR61: The system shall have a interface that allows for the viewing of the graph and the data table.
+
+FR62: The system shall display recycled parts in a vertical table by name.
+
+FR63: The system shall display the repair facilities in a vertical table by name.
+
+FR64: The system shall display the preferred repair facility in a graph.
+
+FR65: The system shall display recycled parts and the preferred repair facility.
+
+FR66: The display shall have two regions:  left of the display is graphical  right of the display is a data table.
+
+FR67: The data displayed in both the nodes within the graph and the rows in the table are Summary data.
+
+FR68: The system shall color code the repair facilities according to their distance variance from current location.
+
+FR69: The system shall allow modification of the display.
+
+FR70: The system shall filter data by ratings.
+
+FR71: The system shall offer the ability to pause and resume the refresh of data.
+
+FR72: The system shall provide a history report of changes made to the ratings.
+
+FR73: The system shall allow the user to save the preferred repair facility search results.
+
+FR74: The system shall display the recycled parts information and suppliers research results.
+
+FR75: The system shall allow the adjuster to save the audit report.
+
+FR76: The system shall allow the estimator to save the collision estimate.
+
+FR77: The system shall provide the search history to users.
+
+FR78:  The system shall notify the adjuster when a estimator responds to a collision estimate request.
+
+FR79: The user shall be able to retrieve a map showing repair facility locations for a specified area.
+
+FR80: The estimator shall be notified of new estimate request after automatic synchronization with system.
+
+FR81: The user shall be able to report error messages when the user finds errors in the recycled part information.
+
+FR82: The user shall be able to report error messages when the user finds errors in the audit report.
+
+FR83: The user shall be able to cancel the visiting schedule to the repair facility.
+
+FR84: The user shall be able to modify the visiting schedule to the repair facility.
+
+FR85: The system shall be able to prompt an alert message when the user performs a dangerous operation. 
+
+FR86: The system shall allow the user to upload the collision estimate locally.
+
+FR87: The system shall allow the user to upload the audit report locally.
+
+FR88: The user shall be able to modify the recycled parts information.
+
+FR89: The user shall be able to modify the supplier information.
+
+FR90: The user shall be able to add new recycled part information and its supplier.
+
+FR91: The user shall be able to get driving directions to a selected repair facility.
+
+FR92: The system shall be easily used by adjusters and collision estimators with no training.
+
+FR93: The system shall provide interface for a user to easily search repair facilities.
+
+FR94: The system shall use symbols and words that are naturally understandable by users.
+
+FR95: The system shall produce an audit report in an acceptable time.
+
+FR96: The system shall notify the new recycled parts audit report.
+
+FR97: The estimator shall update or create new collision estimate.
+
+FR98: The adjuster shall update ratings based on the audit report.
+
+FR99: The system shall display the most frequent search result of recycled parts.
+
+FR100: The system shall display the most frequent search result for repair facilities.
